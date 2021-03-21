@@ -2,12 +2,12 @@
 
 Specialized picker widgets for urwid that extend its features.
 
-The [additional_urwid_widgets](https://github.com/AFoeee/additional_urwid_widgets) library adds some good specialized picker widgets, e.g. date picker, integer picker, etc.
+The [additional_urwid_widgets](https://github.com/AFoeee/additional_urwid_widgets) library by [AFoeee](https://github.com/AFoeee) adds some good specialized picker widgets, e.g. date picker, integer picker, etc.
 
 However, due to a lack of activity/sync from that project, I decided to extend and update the features by adding a `time picker widget` to the list.
 
 This library mainly focuses on `*Picker` widgets for urwid.
-(Also checkout [**MessageDialog**](https://github.com/AFoeee/additional_urwid_widgets/wiki/MessageDialog) widget from `additional_urwid_widgets!`)
+(Also checkout [**MessageDialog**](https://github.com/AFoeee/additional_urwid_widgets/wiki/MessageDialog) widget from `additional_urwid_widgets`!)
 
 ***
 
