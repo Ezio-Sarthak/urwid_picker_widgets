@@ -22,7 +22,7 @@ The project can be installed via [pip](https://pypi.org/project/urwid-picker-wid
 There are several approaches to install a package via the terminal (as described [here](https://github.com/googlesamples/assistant-sdk-python/issues/236#issuecomment-383039470)):
 *  Setup a virtual env to install the package (**recommended**):
 
-        python3 venv env
+        python3 -m venv env
         source ./env/bin/activate
         python3 -m pip install urwid-picker-widgets
     
