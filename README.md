@@ -54,3 +54,14 @@ A selector for integer numbers.
 
 * [**SelectableRow**](https://github.com/Ezio-Sarthak/urwid_picker_widgets/wiki/SelectableRow)
 Wraps [`urwid.Columns`](http://urwid.org/reference/widget.html#columns) to make it selectable and adds behavior.
+
+
+## FAQ
+
+**Symbols are not encoded properly (Instead question mark symbol '?' is visible')**
+
+Type following command in terminal for the fix.
+
+```
+export LANG="en_IN.UTF-8"
+```
