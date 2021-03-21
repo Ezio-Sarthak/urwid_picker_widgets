@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 
 
-from additional_urwid_widgets.widgets.time_picker import TimePicker
-from additional_urwid_widgets.widgets.selectable_row import SelectableRow
+from urwid_picker_widgets.widgets.time_picker import TimePicker
+from urwid_picker_widgets.widgets.selectable_row import SelectableRow
 
 from datetime import datetime
 import urwid

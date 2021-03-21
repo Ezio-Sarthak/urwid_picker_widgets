@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 
 
-from additional_urwid_widgets.assisting_modules.modifier_key import MODIFIER_KEY
-from additional_urwid_widgets.widgets.integer_picker import IntegerPicker
+from urwid_picker_widgets.assisting_modules.modifier_key import MODIFIER_KEY
+from urwid_picker_widgets.widgets.integer_picker import IntegerPicker
 
 import urwid 
 
