@@ -44,17 +44,28 @@ See the corresponding wiki entries of the widgets for more information.
 * [**DatePicker**](https://github.com/Ezio-Sarthak/urwid_picker_widgets/wiki/DatePicker)
 A (rudimentary) date picker.
 
+![date_picker](https://user-images.githubusercontent.com/55916430/111909895-19056700-8a85-11eb-9fff-1cfd7e924548.png)
+
+
 * [**TimePicker**](https://github.com/Ezio-Sarthak/urwid_picker_widgets/wiki/TimePicker)
 A (rudimentary) time picker.
+
+![time_picker](https://user-images.githubusercontent.com/55916430/111909982-700b3c00-8a85-11eb-974f-46e62fa34f64.png)
 
 * [**IndicativeListBox**](https://github.com/Ezio-Sarthak/urwid_picker_widgets/wiki/IndicativeListBox)
 A [`urwid.ListBox`](http://urwid.org/reference/widget.html#listbox) with additional bars to indicate hidden list items.
 
+![indicative_list_box](https://user-images.githubusercontent.com/55916430/111909930-389c8f80-8a85-11eb-8c01-64dbb07dbc56.png)
+
 * [**IntegerPicker**](https://github.com/Ezio-Sarthak/urwid_picker_widgets/wiki/IntegerPicker)
 A selector for integer numbers.
 
+![integer_picker](https://user-images.githubusercontent.com/55916430/111909955-4a7e3280-8a85-11eb-97fd-740d550f478e.png)
+
 * [**SelectableRow**](https://github.com/Ezio-Sarthak/urwid_picker_widgets/wiki/SelectableRow)
 Wraps [`urwid.Columns`](http://urwid.org/reference/widget.html#columns) to make it selectable and adds behavior.
+
+![selectable_row](https://user-images.githubusercontent.com/55916430/111909964-579b2180-8a85-11eb-93f1-1ed6f52ce052.png)
 
 
 ## FAQ
