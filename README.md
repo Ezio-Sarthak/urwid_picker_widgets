@@ -4,9 +4,10 @@ Specialized picker widgets for urwid that extend its features.
 
 The [additional_urwid_widgets](https://github.com/AFoeee/additional_urwid_widgets) library adds some good specialized picker widgets, e.g. date picker, integer picker, etc.
 
-However, due to a lack of activity/response from the maintaner(s), I decided to extend and update the features by adding a `time picker widget` to the list.
+However, due to a lack of activity/sync from that project, I decided to extend and update the features by adding a `time picker widget` to the list.
 
-This library mainly focuses on `*Picker` widgets for urwid. (Checkout [**MessageDialog**](https://github.com/AFoeee/additional_urwid_widgets/wiki/MessageDialog) from `additional_urwid_widgets`)
+This library mainly focuses on `*Picker` widgets for urwid.
+(Also checkout [**MessageDialog**](https://github.com/AFoeee/additional_urwid_widgets/wiki/MessageDialog) widget from `additional_urwid_widgets!`)
 
 ***
 
@@ -65,3 +66,5 @@ Type following command in terminal for the fix.
 ```
 export LANG="en_IN.UTF-8"
 ```
+
+(Here `IN` refers to the native country of the user)
