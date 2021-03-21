@@ -67,4 +67,4 @@ Type following command in terminal for the fix.
 export LANG="en_IN.UTF-8"
 ```
 
-(Here `IN` refers to the native country of the user)
+(Here `IN` refers to the `India`, the native country of the user)
